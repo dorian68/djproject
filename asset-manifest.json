@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/djproject/static/css/main.dda21972.chunk.css",
-    "main.js": "/djproject/static/js/main.9f6b9edf.chunk.js",
-    "main.js.map": "/djproject/static/js/main.9f6b9edf.chunk.js.map",
-    "runtime-main.js": "/djproject/static/js/runtime-main.6937f960.js",
-    "runtime-main.js.map": "/djproject/static/js/runtime-main.6937f960.js.map",
-    "static/js/2.0684a46b.chunk.js": "/djproject/static/js/2.0684a46b.chunk.js",
-    "static/js/2.0684a46b.chunk.js.map": "/djproject/static/js/2.0684a46b.chunk.js.map",
-    "static/js/3.08606e21.chunk.js": "/djproject/static/js/3.08606e21.chunk.js",
-    "static/js/3.08606e21.chunk.js.map": "/djproject/static/js/3.08606e21.chunk.js.map",
+    "main.css": "/djproject/static/css/main.e8545725.chunk.css",
+    "main.js": "/djproject/static/js/main.a6f11d12.chunk.js",
+    "main.js.map": "/djproject/static/js/main.a6f11d12.chunk.js.map",
+    "runtime-main.js": "/djproject/static/js/runtime-main.b309a0ce.js",
+    "runtime-main.js.map": "/djproject/static/js/runtime-main.b309a0ce.js.map",
+    "static/js/2.90dafeae.chunk.js": "/djproject/static/js/2.90dafeae.chunk.js",
+    "static/js/2.90dafeae.chunk.js.map": "/djproject/static/js/2.90dafeae.chunk.js.map",
+    "static/js/3.a90008b0.chunk.js": "/djproject/static/js/3.a90008b0.chunk.js",
+    "static/js/3.a90008b0.chunk.js.map": "/djproject/static/js/3.a90008b0.chunk.js.map",
     "index.html": "/djproject/index.html",
-    "static/css/main.dda21972.chunk.css.map": "/djproject/static/css/main.dda21972.chunk.css.map",
-    "static/js/2.0684a46b.chunk.js.LICENSE.txt": "/djproject/static/js/2.0684a46b.chunk.js.LICENSE.txt",
+    "static/css/main.e8545725.chunk.css.map": "/djproject/static/css/main.e8545725.chunk.css.map",
+    "static/js/2.90dafeae.chunk.js.LICENSE.txt": "/djproject/static/js/2.90dafeae.chunk.js.LICENSE.txt",
     "static/media/checkout-banner.c03c7cca.jpg": "/djproject/static/media/checkout-banner.c03c7cca.jpg",
     "static/media/landscape.20038f0b.jpg": "/djproject/static/media/landscape.20038f0b.jpg",
     "static/media/logo.6ce24c58.svg": "/djproject/static/media/logo.6ce24c58.svg",
@@ -20,9 +20,9 @@
     "static/media/volkswagen.44d91400.png": "/djproject/static/media/volkswagen.44d91400.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6937f960.js",
-    "static/js/2.0684a46b.chunk.js",
-    "static/css/main.dda21972.chunk.css",
-    "static/js/main.9f6b9edf.chunk.js"
+    "static/js/runtime-main.b309a0ce.js",
+    "static/js/2.90dafeae.chunk.js",
+    "static/css/main.e8545725.chunk.css",
+    "static/js/main.a6f11d12.chunk.js"
   ]
 }
