@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/djproject/static/css/main.d460cf5a.chunk.css",
+    "main.js": "/djproject/static/js/main.e520b05f.chunk.js",
+    "main.js.map": "/djproject/static/js/main.e520b05f.chunk.js.map",
+    "runtime-main.js": "/djproject/static/js/runtime-main.27144566.js",
+    "runtime-main.js.map": "/djproject/static/js/runtime-main.27144566.js.map",
+    "static/js/2.3ff54da3.chunk.js": "/djproject/static/js/2.3ff54da3.chunk.js",
+    "static/js/2.3ff54da3.chunk.js.map": "/djproject/static/js/2.3ff54da3.chunk.js.map",
+    "static/js/3.756d32e9.chunk.js": "/djproject/static/js/3.756d32e9.chunk.js",
+    "static/js/3.756d32e9.chunk.js.map": "/djproject/static/js/3.756d32e9.chunk.js.map",
+    "index.html": "/djproject/index.html",
+    "static/css/main.d460cf5a.chunk.css.map": "/djproject/static/css/main.d460cf5a.chunk.css.map",
+    "static/js/2.3ff54da3.chunk.js.LICENSE.txt": "/djproject/static/js/2.3ff54da3.chunk.js.LICENSE.txt",
+    "static/media/checkout-banner.c03c7cca.jpg": "/djproject/static/media/checkout-banner.c03c7cca.jpg",
+    "static/media/landscape.20038f0b.jpg": "/djproject/static/media/landscape.20038f0b.jpg",
+    "static/media/logo.6ce24c58.svg": "/djproject/static/media/logo.6ce24c58.svg",
+    "static/media/toothpaste.8a00b453.png": "/djproject/static/media/toothpaste.8a00b453.png",
+    "static/media/tv2.5aa056ad.png": "/djproject/static/media/tv2.5aa056ad.png",
+    "static/media/volkswagen.44d91400.png": "/djproject/static/media/volkswagen.44d91400.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27144566.js",
+    "static/js/2.3ff54da3.chunk.js",
+    "static/css/main.d460cf5a.chunk.css",
+    "static/js/main.e520b05f.chunk.js"
+  ]
+}
